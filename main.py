@@ -1,5 +1,6 @@
-VER="1.0.0.2"
+VER="1.0.1.0"
 from tkinter import *
+from time import sleep
 data={}
 def data_save():
     global data
@@ -17,6 +18,7 @@ def Tick():
 tk=Tk() 
 tk.title("Minevillage "+VER)
 while True:
+    sleep(1/20)
     Tick()
     tk.update_idletasks()
     tk.update()
