@@ -1,4 +1,4 @@
-VER="1.0.2.0"
+VER="1.0.3.1"
 from tkinter import *
 from time import sleep
 data={}
@@ -17,6 +17,8 @@ def Tick():
     return
 tk=Tk() 
 tk.title("Minevillage "+VER)
+grass_block_top_img=PhotoImage("/.minevillage/textures/block")
+#canves=Canves
 while True:
     sleep(1/20)
     Tick()
