@@ -1,4 +1,4 @@
-# Minevillage Python Editon
+# Minevillage Python Edition
 
 这是一个基于 Python Tkinter 的游戏，使用 nuitka 进行构建。（可能会被识别为病毒。如果您不放心，可以自行构建或直接运行）  
 
@@ -20,7 +20,7 @@
 
 # English version
 
-## Minevillage Python Editon
+## Minevillage Python Edition
 
 **If you don't understand what the following content means, we suggest using our built .exe application directly**
 

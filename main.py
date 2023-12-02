@@ -1,4 +1,4 @@
-VER="1.0.3.1"
+VER="1.1.0.0"
 from tkinter import *
 from time import sleep
 data={}
